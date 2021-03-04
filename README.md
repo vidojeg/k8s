@@ -7,4 +7,6 @@ Easily install and test some of DevOps popular tools
 * Grafana
 * Sonarqube
 * Jenkins
-* Prometheus (soon...)
+* Prometheus
+* Logstash (soon...)
+* Filebeat (soon...)
